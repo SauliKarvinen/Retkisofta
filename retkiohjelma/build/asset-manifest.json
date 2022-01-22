@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/~AB2577/harjoitustyo/static/css/main.108ac175.chunk.css",
+    "main.js": "/~AB2577/harjoitustyo/static/js/main.43b4eb7b.chunk.js",
+    "main.js.map": "/~AB2577/harjoitustyo/static/js/main.43b4eb7b.chunk.js.map",
+    "runtime-main.js": "/~AB2577/harjoitustyo/static/js/runtime-main.8d49ae2a.js",
+    "runtime-main.js.map": "/~AB2577/harjoitustyo/static/js/runtime-main.8d49ae2a.js.map",
+    "static/css/2.1e1a0f75.chunk.css": "/~AB2577/harjoitustyo/static/css/2.1e1a0f75.chunk.css",
+    "static/js/2.ece3caf2.chunk.js": "/~AB2577/harjoitustyo/static/js/2.ece3caf2.chunk.js",
+    "static/js/2.ece3caf2.chunk.js.map": "/~AB2577/harjoitustyo/static/js/2.ece3caf2.chunk.js.map",
+    "index.html": "/~AB2577/harjoitustyo/index.html",
+    "static/css/2.1e1a0f75.chunk.css.map": "/~AB2577/harjoitustyo/static/css/2.1e1a0f75.chunk.css.map",
+    "static/css/main.108ac175.chunk.css.map": "/~AB2577/harjoitustyo/static/css/main.108ac175.chunk.css.map",
+    "static/js/2.ece3caf2.chunk.js.LICENSE.txt": "/~AB2577/harjoitustyo/static/js/2.ece3caf2.chunk.js.LICENSE.txt",
+    "static/js/mapbox-gl-csp-worker.7b23dd9b.worker.js": "/~AB2577/harjoitustyo/static/js/mapbox-gl-csp-worker.7b23dd9b.worker.js",
+    "static/js/mapbox-gl-csp-worker.7b23dd9b.worker.js.map": "/~AB2577/harjoitustyo/static/js/mapbox-gl-csp-worker.7b23dd9b.worker.js.map",
+    "static/media/styles.css": "/~AB2577/harjoitustyo/static/media/background_img.3ccef7dd.jpg",
+    "static/media/red_pin.0b3d60a0.png": "/~AB2577/harjoitustyo/static/media/red_pin.0b3d60a0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d49ae2a.js",
+    "static/css/2.1e1a0f75.chunk.css",
+    "static/js/2.ece3caf2.chunk.js",
+    "static/css/main.108ac175.chunk.css",
+    "static/js/main.43b4eb7b.chunk.js"
+  ]
+}
