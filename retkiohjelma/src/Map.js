@@ -10,7 +10,7 @@ mapboxgl.workerClass = MapboxWorker;
 
 // Mapbox-gl access-token
 const access_token =
-  "pk.eyJ1Ijoic2F1bGlrIiwiYSI6ImNrcWM4NXJoYzAwdzkybm56djVka2VzZW0ifQ.QmYDZh6DNEwu5ITY9lQ6Ag";
+  "mapbox access token here";
 
 // Kartta default-arvoilla
 function Map(props) {
